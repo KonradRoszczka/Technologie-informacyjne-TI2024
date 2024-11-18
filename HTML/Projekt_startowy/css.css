@@ -1,0 +1,23 @@
+html, body{
+    margin: 10px;
+    text-align: center;
+}
+a{
+    color: #369;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 32px;
+    color: red;
+    border: crimson dotted 5px;
+}
+h1{
+    font-size: 28px;
+    margin: 0px;
+    color: gold;
+}
+h2{
+    font-size: 12px;
+    margin: 0 0 0 5px;
+    color: gold;
+}
