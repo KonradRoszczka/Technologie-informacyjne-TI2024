@@ -21,3 +21,73 @@ h2{
     margin: 0 0 0 5px;
     color: gold;
 }
+img{
+    border-color: #369;
+    border-style: dotted;
+}
+img:hover{
+    border: 3px red dotted;
+}
+.floating{
+    float: left;
+    padding: 2px;
+}
+p{
+    width: 650px;
+    margin-left: 10px;
+}
+
+#content{
+    text-align: left;
+    margin: 0 auto;
+    padding: 5px;
+    width: 850px;
+    background: url(background.png) repeat-y;
+    font: 11px Arial, Helvetica;
+    color: #666;
+}
+aside{
+    width: 485px;
+    float: left;
+    padding: 10px;
+}
+nav{
+    float: left;
+    width: 150px;
+    min-height: 50px;
+    height: auto;   
+}
+#navbar{
+    list-style: none;
+    margin: 5px 0;
+    padding: 0px;
+
+}
+#navbar a{
+    padding: 5 15px;
+    width: 110px;
+    margin: 0 5px;
+    display: block;
+    border-bottom: 1px dashed #369;
+}
+#pczt{
+    border: dashed 3px crimson;
+}
+#klndrm{
+    background-color: #666;
+}
+#czc{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#frm{
+    text-align: center;
+}
+#ul{
+    list-style-type: square;
+}
+#pc{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pc table{
+    float: right;
+}
